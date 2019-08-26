@@ -3,7 +3,7 @@ import telepot
 import datetime
 from telepot.loop import MessageLoop
 #Определяем бота
-TOKEN = '778725206:AAHBObRSusFZDEq4hxqydzj35cxsEPR0fkc'
+TOKEN = TOKEN
 bot = telepot.Bot(TOKEN)
 step = 1
 firstt = 1
